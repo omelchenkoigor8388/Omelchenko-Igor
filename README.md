@@ -1,54 +1,28 @@
+Привіт, ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)мене звуть Ігор
+=================================================================================================================================
 
-# Привіт, мене звати Ігор!
+Веб-розробник
+-------------
 
----
+Мене звуть Ігор Омельченко, я є студентом КНТЕУ/ДЕТУ та активно самостійно вивчаю Front-end розробку. Зацікавлення у цій галузі з'явилося у мене ще від перших днів навчання, але насправді серйозно я почав займатися цим тільки нещодавно. Я відчуваю, що вже набув впевнених навичок у роботі з HTML, CSS та JavaScript, тож мій наступний крок - більш глибоке вивчення цих мов програмування та засобів для їх оптимізації. На даний момент я активно займаюсь власними проектами, які дозволяють мені закріплювати свої знання та розвиватися в цій галузі. Я впевнений, що з моєю мотивацією та старанням я зможу досягти успіху у Front-end розробці та зробити свій внесок у розвиток сучасного інтернету.
 
-### :man_technologist: Про мене:
+* 🌍 Я проживаю в Києві
+✉️ * Ви можете зв'язатися зі мною за [адресою omelchenkoigor7777@gmail.com](mailto:omelchenkoigor7777@gmail.com)
+🧠 * Я вчуся React
+* 🤝 Я відкритий до співпраці над будь-яким проєктом
+* ⚡ В даний час я також активно шукаю можливості для отримання першого досвіду роботи у галузі Front-end розробки
 
-Я новачок в веб-разробці<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мій шлях в ІT почався з перегляду ролеків на YouTube де я почав повторювати HTML/CSS код з відео і мені подобався візуальний результат, тому я почав поглиблено вивчати цю сферу.Невдовзі я вирішив спробувати свої сили на біржі Fiverr де отрмав своє перше замовлення і грошову винагороду, тоді я зрозумів,що те чим я займаюсь мені подобається, приносить вигоду піля чого вірішив зв'язати своє життя з ІТ.  
+### Навички
 
-- :telescope: Вивчаю веб-розробку самостіно!
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> < a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p>
+### Socials <p align="left"> <a href="https://www.github.com/omelchenkoigor8388" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_igor_omelchenko_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-- :seedling: Навчаюсь в КНТЕУ/ДЕТУ.
+### Значки
 
-- :zap: Хочу освоїть професію Frontend developer отимати роботу.
+<b>Моя статистика GitHub</b>
 
-- :mailbox: Як зв'язатись зі мною : [![Telegram Badge](https://img.shields.io/badge/-OmelchenkoIgor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Omelchenko_Igor_VIP) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:omelchenkoigor7777@gmail.com)
+<а href="http://www.github.com/omelchenkoigor8388"><img src="https://github-readme-stats.vercel.app/api?username=omelchenkoigor8388&show_icons=true&hide=issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="omelchenkoigor8388's GitHub stats" /></a>
 
----
+<a href="https://github.com/omelchenkoigor8388" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelchenkoigor8388&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 🤝 Соцмережі:
-
-  <div id="badges">
-    <a href="https://t.me/Omelchenko_Igor_VIP" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.instagram.com/_igor_omelchenko_/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="40" height="40" alt=""/>
-    </a>
-  </div>
-
----
-
-### 💻 Технології:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-</div>
-
----
-
-### 🛠 Інструменти:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-
-
-</div>
-
----
+<ширина div="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
