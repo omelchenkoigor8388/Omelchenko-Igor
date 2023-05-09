@@ -8,11 +8,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ✉️  You can contact me at:
        <br>
-       + [omelchenkoigor7777@gmail.com](mailto:omelchenkoigor7777@gmail.com)
+       * [omelchenkoigor7777@gmail.com](mailto:omelchenkoigor7777@gmail.com)
        <br>
-       + [https://t.me/Omelchenko_Igor_VIP](https://t.me/Omelchenko_Igor_VIP)
+       * [https://t.me/Omelchenko_Igor_VIP](https://t.me/Omelchenko_Igor_VIP)
        <br>
-       + +380967718853
+       * +380967718853
 * 🚀  I'm currently working on [Angular](http://store-3-0.vercel.app/home)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on будь-яким проєктом
